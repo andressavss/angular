@@ -1,0 +1,13 @@
+.novo {
+    margin: 8px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+button {
+    margin: 20px 15px 0px 0px;
+}
